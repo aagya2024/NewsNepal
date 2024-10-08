@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.top{
+    background-color: #e41525;
+    line-height: 40px;
+    color: #ffff;
+    font-size: 15px;
+}
+.container{
+  width: 1200px;    
+  margin: auto;
+  
+}
+.container ul{
+    display: inline-block;
+}
+.container ul li{
+    display: inline-block;
+}
+.container ul li a{
+    display: block;
+    color: #ffff;
+    text-decoration: none;
+}
+.l{
+    float: left;
+}
+.r{
+    float: right;
+}
+c{
+    clear: both;
+}
+
+ .r .bi{
+    padding-right: 15px;
+}
+.a{
+    width: 311px;
+}
+.img2{
+    width: 60%;
+}
+header{
+        padding: 25px 0px;
+    }
+
+.nav{
+    background-color: #255995;
+    width: 1200px;    
+    margin-top: 90px;
+    margin-left: 140px;
+}
+.nav ul{
+    list-style: none;
+  
+}
+.nav li{
+    display: inline-block;
+}
+.nav li a{
+    display: block;
+    color: #ffff;
+    padding:15px 20px;
+    text-decoration: none;
+}
+.ads{
+    background-color:rgb(172, 167, 167);
+    padding: 10px;
+    margin: 20px 0px;
+}
+article{
+    background-color:rgb(172, 167, 167);
+    margin: 20px 0px;
+    text-align: center;
+    padding: 25px;
+}
+article h1{
+    font-size: 50px;
+    font-weight: bold;
+padding: 20px 0px;
+}
+.blockleft{
+    width: 68%;
+}
+.blockright{
+    width: 30%;
+}
+.blue{
+    background-color: #255995;
+    color: #ffff;
+}
+ .bluel{
+    width: 50%;
+}
+  .bluer{
+    width: 50%;
+    
+    padding: 20px;
+}
+.down{
+    margin-top: 20px;
+    border: 2px solid rgb(174 168 168);
+    height: 550px;
+}
+.img1{
+    width: 25%;
+    padding: 10px;
+}
+.news{
+    color: blue;
+    background-color: aquamarine;
+    float: right;
+    clear: both;
+    margin-top: 222px;
+    margin-right: 20px;
+    padding: 20px;
+}
+.update{
+    height: 1147px;
+}
+.poli{
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid black;
+}
+.poli h2{
+    padding: 10px;
+}
+.poli p{
+    padding: 10px;
+}
+.f{
+    border: 2px solid black;
+   margin: 10px;
+}
+.p{
+    align-items: flex-end;
+}
